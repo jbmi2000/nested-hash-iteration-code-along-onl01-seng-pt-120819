@@ -25,5 +25,5 @@ def remove_strawberry(contacts)
   end
   end
   end
-
+puts contact_details_hash
 end
